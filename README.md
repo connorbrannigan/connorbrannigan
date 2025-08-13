@@ -1,7 +1,7 @@
 # 🚀 About Me:
 - 🔭 I’m currently working as a backend engineer at Condé Nast reimagining and rearchitecting their content delivery pipelines
 - 🌱 I’m currently learning how to build better SOLID rest apis
-- 👷‍♂️ Currently working on a Nod Rest API based off of my old employers because why not 🤷‍♂️
+- 👷‍♂️ Currently working on a Node Rest API using sequelize 🤷‍♂️
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: theherd.softwaredev@gmail.com
 - 😄 Pronouns: he/him
